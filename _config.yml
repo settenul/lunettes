@@ -20,11 +20,11 @@ author: TJM
 ###############################################
 
 navbar-links:
-  About Meesa: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Upcoming Dates: "aboutme"
+  Merch and store:
+    - CD, Casettes, and Physical Media : "https://google.com"
+    - Clothing and Accessories: "https://www.google.com/"
+  Contact: "https://www.google.com"
 
 ################
 # --- Logo --- #
