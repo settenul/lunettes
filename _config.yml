@@ -13,18 +13,17 @@
 title: HOME
 
 # Your name to show in the footer
-author: T.J. Metivier
+author: TJM
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  spotify: Lunettes
-
-#  Resources:
-#    - Beautiful Jekyll: "https://beautifuljekyll.com"
-#    - Learn markdown: "https://www.markdowntutorial.com/"
+  INFO:
+    - TOUR: "https://www.google.com"
+    - BOOKING: "https://www.google.com"
+    - MERCH: "https://www.google.com"
 #  Author's home: "https://deanattali.com"
 
 ################
@@ -51,13 +50,13 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  spotify: Lunettes
+  spotify: /artist/3oGcl3GQ7X8MwMWqIKVN1p
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: lunettesband
-  facebook: Lunettes
+  youtube: channel/UC9LdnGQI6yaj2_UL4GabqQQ
+  facebook: profile.php?id=61562952717470
 
   email: "thereallunettes@gmail.com"
 
