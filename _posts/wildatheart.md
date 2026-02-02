@@ -2,9 +2,7 @@
 layout: post
 title: WILD AT HEART by LUNETTES
 subtitle: New EP - Releasing February 7, 2026 on all streaming platforms
-cover-img: /assets/img/covyes.jpeg
-thumbnail-img: /assets/img/covyes.jpeg
-share-img: /assets/img/covyes.jpeg
+cover-img: /assets/img/covyes.jpg
 tags: [New release, alternative rock, indie]
 author: TJM
 ---
