@@ -20,9 +20,9 @@ author: TJM
 ###############################################
 
 navbar-links:
-    - TOUR: "https://www.google.com"
-    - BOOKING: "https://www.google.com"
-    - MERCH: "https://www.google.com"
+- TOUR: "https://www.google.com"
+- BOOKING: "https://www.google.com"
+- MERCH: "https://www.google.com"
 #  Author's home: "https://deanattali.com"
 
 ################
