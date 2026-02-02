@@ -20,10 +20,11 @@ author: T.J. Metivier
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  spotify: Lunettes
+
+#  Resources:
+#    - Beautiful Jekyll: "https://beautifuljekyll.com"
+#    - Learn markdown: "https://www.markdowntutorial.com/"
 #  Author's home: "https://deanattali.com"
 
 ################
@@ -50,13 +51,14 @@ round-avatar: false
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  spotify: "https://open.spotify.com/artist/3oGcl3GQ7X8MwMWqIKVN1p?si=v4KsxqhoT1KVZ7kcDl_ePQ"
+  spotify: Lunettes
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "https://www.facebook.com/profile.php?id=61562952717470"
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
-  youtube: "https://www.youtube.com/channel/UC9LdnGQI6yaj2_UL4GabqQQ"
+  youtube: lunettesband
+  facebook: Lunettes
+
   email: "thereallunettes@gmail.com"
 
 #  whatsapp: 15551212
